@@ -4,7 +4,7 @@ These are course assignment reports for CS194-26(Fall 2015) in UC Berkeley. Most
 Course website: https://inst.eecs.berkeley.edu/~cs194-26/fa15/
 
 Project 1: 
-  Images of the Russian Empire: Colorizing the Prokudin-Gorskii photo collection
+  Images of the Russian Empire: Colorizing the Prokudin-Gorskii photo collection\n
   Assignment webpage: https://inst.eecs.berkeley.edu/~cs194-26/fa15/hw/proj1/index.html
   My report page: https://inst.eecs.berkeley.edu/~cs194-26/fa15/upload/files/proj1/cs194-bz/Mengyao_Lyu_proj1/
   
